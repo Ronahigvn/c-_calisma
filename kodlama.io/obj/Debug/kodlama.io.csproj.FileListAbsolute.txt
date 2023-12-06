@@ -1,0 +1,8 @@
+C:\Users\GUVEN\source\repos\kodlama.io\kodlama.io\bin\Debug\kodlama.io.exe.config
+C:\Users\GUVEN\source\repos\kodlama.io\kodlama.io\bin\Debug\kodlama.io.exe
+C:\Users\GUVEN\source\repos\kodlama.io\kodlama.io\bin\Debug\kodlama.io.pdb
+C:\Users\GUVEN\source\repos\kodlama.io\kodlama.io\obj\Debug\kodlama.io.csproj.AssemblyReference.cache
+C:\Users\GUVEN\source\repos\kodlama.io\kodlama.io\obj\Debug\kodlama.io.csproj.SuggestedBindingRedirects.cache
+C:\Users\GUVEN\source\repos\kodlama.io\kodlama.io\obj\Debug\kodlama.io.csproj.CoreCompileInputs.cache
+C:\Users\GUVEN\source\repos\kodlama.io\kodlama.io\obj\Debug\kodlama.io.exe
+C:\Users\GUVEN\source\repos\kodlama.io\kodlama.io\obj\Debug\kodlama.io.pdb

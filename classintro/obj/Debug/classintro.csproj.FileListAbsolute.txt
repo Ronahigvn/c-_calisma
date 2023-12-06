@@ -1,0 +1,8 @@
+C:\Users\GUVEN\source\repos\kodlama.io\classintro\bin\Debug\classintro.exe.config
+C:\Users\GUVEN\source\repos\kodlama.io\classintro\bin\Debug\classintro.exe
+C:\Users\GUVEN\source\repos\kodlama.io\classintro\bin\Debug\classintro.pdb
+C:\Users\GUVEN\source\repos\kodlama.io\classintro\obj\Debug\classintro.csproj.AssemblyReference.cache
+C:\Users\GUVEN\source\repos\kodlama.io\classintro\obj\Debug\classintro.csproj.SuggestedBindingRedirects.cache
+C:\Users\GUVEN\source\repos\kodlama.io\classintro\obj\Debug\classintro.csproj.CoreCompileInputs.cache
+C:\Users\GUVEN\source\repos\kodlama.io\classintro\obj\Debug\classintro.exe
+C:\Users\GUVEN\source\repos\kodlama.io\classintro\obj\Debug\classintro.pdb
